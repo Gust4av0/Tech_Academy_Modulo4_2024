@@ -1,0 +1,5 @@
+Verificar os Sites de E-commerce concorrentes para conhecer o funcionamento
+Verificar e anotar as possíveis reras de negócios
+Buscar conhecer o funcionamento dos Sites
+Desenhar um DER prévio de um possível banco de dados para E-commerce
+Plataforma que pode ser estudada gratuitamente: lojaintegrada.com.br Tech 
