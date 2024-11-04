@@ -1,0 +1,2 @@
+Classes Iguais do Banco:
+Usuários, Pagamento, Pedido, Item/Pedido, Item/Produto, Categoria. 
