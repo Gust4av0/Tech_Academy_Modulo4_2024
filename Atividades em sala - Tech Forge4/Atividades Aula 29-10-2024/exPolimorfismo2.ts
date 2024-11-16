@@ -1,0 +1,1 @@
+//2 - Crie uma classe base "FormaGeometrica" com um método calcularArea(). Crie classes "Quadrado" e "Circulo" que sobrescrevam este método e retornem a área correta para cada forma.
